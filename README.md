@@ -1,8 +1,25 @@
-# React person
+# Person
 
-Implemented a `Person` component rendering a person details using the given markup
-and use it 3 times inside the `App` instead of static markup.
+### Description
 
-- ## Demo Links
+- Implemented a `Person` component rendering a person details using the given markup
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/react_person/)
+### Stack
+
+- HTML (BEM)
+- CSS (Bulma)
+- JS
+- React
+- ReactDOM
+
+### Tools
+
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Babel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/person/)
